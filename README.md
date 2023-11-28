@@ -29,3 +29,30 @@ Incorporar elementos educativos para empoderar a los usuarios con conocimientos 
 
 *Posibilidad de Ampliación:*
 Diseñar el proyecto de manera modular y extensible para permitir futuras mejoras y adiciones de características, como la integración con otras plataformas o la expansión de las capacidades de seguimiento.
+
+## Funcionamiento
+
+Aquí te proporcionamos una guía paso a paso sobre cómo utilizar la aplicación:
+
+*Inicio:*
+Al abrir la aplicación, serás recibido/a con una ventana principal atractiva y fácil de usar. Verás el nombre de la aplicación, un logo distintivo y dos opciones principales: "Método 50/30/20" y "Método Harv Eker".
+
+*Selección de Método:*
+Puedes elegir entre dos métodos de ahorro populares: el "Método 50/30/20" y el "Método Harv Eker". Cada método asigna porcentajes específicos de tus ingresos a diferentes categorías de gastos y ahorros. Igualmente se da la opcion libre, en la cual el usuario puede asignar los porcentajes a sus ingresos de manera personalizada.
+
+*Ingreso de Datos:*
+Después de seleccionar un método, serás dirigido/a a una nueva ventana donde podrás ingresar tus ingresos mensuales y la meta de ahorro que deseas alcanzar. Asegúrate de introducir números válidos y luego haz clic en el botón "Calcular".
+
+*Visualización de Resultados:*
+Una vez que hayas hecho clic en "Calcular", la aplicación realizará los cálculos necesarios y te mostrará un desglose claro de cómo distribuir tus ingresos según el método seleccionado. Esto incluirá categorías como gastos básicos, costes personales, ahorro, formación, inversiones y más, dependiendo del método elegido.
+
+*Tiempo Estimado para Alcanzar la Meta:*
+Además de los detalles sobre cómo distribuir tu dinero, la aplicación te proporcionará una estimación del tiempo necesario para alcanzar tu meta de ahorro. Esta información te ayudará a visualizar tu progreso y a planificar a largo plazo.
+
+*Opciones Adicionales:*
+En cada ventana, tendrás la opción de volver a la pantalla principal en cualquier momento haciendo clic en el botón "Volver". Esto cerrará la ventana actual y te devolverá a la pantalla principal.
+
+*Errores y Validación:*
+La aplicación está diseñada para manejar errores comunes, como la introducción de datos no válidos. Si por alguna razón introduces letras en lugar de números, recibirás un mensaje de error y se te pedirá que ingreses datos válidos.
+
+¡Y eso es todo! Con PENNY-WISR, gestionar tus finanzas y trabajar hacia tus metas de ahorro nunca ha sido más fácil. Siéntete libre de explorar más metodologías y descubrir cuál se adapta mejor a tus necesidades financieras.
