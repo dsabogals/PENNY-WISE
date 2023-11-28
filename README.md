@@ -6,4 +6,5 @@ PENNY-WISE surge como una solución amigable y accesible, diseñada para usuario
 
 Con características como la capacidad de establecer metas personalizadas y calcular ahorros mensuales óptimos, PENNY-WISE se convierte en un compañero indispensable para aquellos que buscan alcanzar sus objetivos financieros con confianza y claridad. Desde su interfaz fácil de usar hasta sus funciones poderosas de cálculo, el proyecto realizado representa la convergencia de la programación eficiente y la planificación financiera inteligente. 
 
-![]()
+![](https://github.com/dsabogals/PENNY-WISE/blob/main/Banner.png)
+
