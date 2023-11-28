@@ -55,4 +55,4 @@ En cada ventana, tendrás la opción de volver a la pantalla principal en cualqu
 *Errores y Validación:*
 La aplicación está diseñada para manejar errores comunes, como la introducción de datos no válidos. Si por alguna razón introduces letras en lugar de números, recibirás un mensaje de error y se te pedirá que ingreses datos válidos.
 
-¡Y eso es todo! Con PENNY-WISR, gestionar tus finanzas y trabajar hacia tus metas de ahorro nunca ha sido más fácil. Siéntete libre de explorar más metodologías y descubrir cuál se adapta mejor a tus necesidades financieras.
+¡Y eso es todo! Con PENNY-WISE, gestionar tus finanzas y trabajar hacia tus metas de ahorro nunca ha sido más fácil. Siéntete libre de explorar más metodologías y descubrir cuál se adapta mejor a tus necesidades financieras.
