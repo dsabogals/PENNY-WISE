@@ -57,3 +57,6 @@ La aplicación está diseñada para manejar errores comunes, como la introducci�
 
 ¡Y eso es todo! Con PENNY-WISE, gestionar tus finanzas y trabajar hacia tus metas de ahorro nunca ha sido más fácil. Siéntete libre de explorar más metodologías y descubrir cuál se adapta mejor a tus necesidades financieras.
 
+## Guia de Instalación
+
+Para usar PENNY-WISE deberás descargar el archivo .zip o descargar manualmente "Proyecto.py", "logo.ico" y "logo.png" y mantenerlos en una misma carpeta. Finalmente, con el interprete de tu preferencia ejecutarás el código y debería de abrirte la interfaz sin ningun problema. Verifica que la ruta de acceso del directorio sea la correcta. ¡Disfruta de los beneficios de  PENNY-WISE!
