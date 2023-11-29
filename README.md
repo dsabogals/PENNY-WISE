@@ -8,7 +8,7 @@ Con características como la capacidad de establecer metas personalizadas y calc
 
 ![](https://github.com/dsabogals/PENNY-WISE/blob/main/Banner.png)
 
-## Objetivos
+## Objetivos 🏁
 
 Los objetivos del proyecto son los siguientes:
 
@@ -30,7 +30,7 @@ Incorporar elementos educativos para empoderar a los usuarios con conocimientos 
 *Posibilidad de Ampliación:*
 Diseñar el proyecto de manera modular y extensible para permitir futuras mejoras y adiciones de características, como la integración con otras plataformas o la expansión de las capacidades de seguimiento.
 
-## Funcionamiento
+## Funcionamiento ⚙️
 
 Aquí te proporcionamos una guía paso a paso sobre cómo utilizar la aplicación:
 
